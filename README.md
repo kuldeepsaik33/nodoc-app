@@ -47,3 +47,5 @@ It helps users get basic first-aid advice, medicines, and Ayurvedic suggestions 
 
 1. Install Python  
 2. Clone the repository
+   bash
+   git clone https://github.com/kuldeepsaik33/nodoc-app.git
