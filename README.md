@@ -1,5 +1,8 @@
 # 🩺 NODOC – Offline Health Assistant
 
+## 📸 Preview
+![nodoc-app](prototype.jpg)
+
 NODOC is a simple offline healthcare assistant built using Python and Tkinter.  
 It helps users get basic first-aid advice, medicines, and Ayurvedic suggestions for common diseases.It is mainly for the rural , remote areas or hostels and sometimes in latenight cases.
 
