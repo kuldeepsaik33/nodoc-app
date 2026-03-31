@@ -60,3 +60,17 @@ It helps users get basic first-aid advice, medicines, and Ayurvedic suggestions 
    
    bash---
    git clone https://github.com/kuldeepsaik33/nodoc-app.git
+
+
+
+---
+
+
+## 👨‍💻 Team Members
+- Kuldeep Sai (@Kuldeepsai33)
+- Thanmai Sri (@thanmaisri15)
+
+
+
+
+
