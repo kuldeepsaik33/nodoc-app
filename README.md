@@ -40,6 +40,7 @@ It helps users get basic first-aid advice, medicines, and Ayurvedic suggestions 
 - Visual Studio Code
 - Git
 - GitHub
+- Pydroid 3
 
 ---
 
