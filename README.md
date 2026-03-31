@@ -24,7 +24,7 @@ It helps users get basic first-aid advice, medicines, and Ayurvedic suggestions 
   - Medication
   - Ayurvedic Support
 - 💻 Fully offline (no internet required)
-- 🧠 Simple and user-friendly interface
+- 🧠 Simple and user-friendly interface ( also friendly for non-technical users )
 
 ---
 
